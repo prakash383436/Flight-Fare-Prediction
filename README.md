@@ -1,1 +1,2 @@
 # Flight-Fare-Prediction
+Objective of the project is to create a tool that estimates flight prices to help users look for best prices when booking flight tickets. This system will give people the idea about the trends that prices follow and also provide a predicted price value which they can refer to before booking their flight tickets to save money. This kind of system or service can be provided to the customers by flight booking companies which will help the customers to book their tickets accordingly
